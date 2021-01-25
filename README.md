@@ -16,10 +16,9 @@ https://itch.io/jam/coding-blocks-2021/rate/892846
   Axe-FX 2*<br/>
   
   ### Credits
-  *Visual and audio assets<br/>
-  Texture maps used for the floor https://www.texturecan.com/details/136/ <br/>
-  Code<br/>
-  Music*<br/> 
+  *Texture maps used for the floor from https://www.texturecan.com/details/136/ <br/>
+  Code is my own<br/>
+  Music is my own*<br/> 
 
   
   ### Summary
