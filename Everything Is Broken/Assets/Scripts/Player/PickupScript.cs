@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+//Turn on arm child on pick up
 public class PickupScript : MonoBehaviour
 {
     [SerializeField] RoboArmScript roboArmScript;
