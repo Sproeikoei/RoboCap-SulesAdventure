@@ -3,6 +3,12 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
+/// <summary>
+/// Attach to the object you wish to animate
+/// Constant Roll rotation (Z axis)
+/// On Left Click 180 Pitch rotation (X axis) and 360 Yaw rotation (Y axis)
+/// </summary>
+
 public class ToolAnimation : MonoBehaviour
 {
     public float SequenceValue
