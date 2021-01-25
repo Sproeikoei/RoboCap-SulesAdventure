@@ -16,6 +16,15 @@ public class Destructable : MonoBehaviour, IDestructable
 
     Collider collider;
 
+    void Start()
+    {
+        health = data.health;
+        collider = GetComponent<Collider>();
+
+        player = GameObject.Find("Player").transform;
+        objectPoolSpawner = transform.parent.GetComponent<ObjectPoolSpawner>();
+    }
+
     public void ReceiveDamage(int damage)
     {
         health -= damage;
@@ -35,15 +44,6 @@ public class Destructable : MonoBehaviour, IDestructable
         health = data.health;
 
         StartCoroutine(delayStart());
-    }
-
-    void Start()
-    {
-        health = data.health;
-        collider = GetComponent<Collider>();
-
-        player = GameObject.Find("Player").transform;
-        objectPoolSpawner = transform.parent.GetComponent<ObjectPoolSpawner>();
     }
 
     IEnumerator delayStart()
