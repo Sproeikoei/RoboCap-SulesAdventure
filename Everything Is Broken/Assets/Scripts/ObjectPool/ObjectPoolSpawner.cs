@@ -2,6 +2,12 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+/// <summary>
+/// Spawns objects over time and pools them for re-use
+/// Assign which object in the editor, takes a scriptable object
+/// Attach this script to an empty GameObject
+/// </summary>
+
 public class ObjectPoolSpawner : MonoBehaviour
 {
     [SerializeField]
