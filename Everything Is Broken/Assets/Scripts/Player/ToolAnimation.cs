@@ -11,6 +11,8 @@ using UnityEngine.InputSystem;
 
 public class ToolAnimation : MonoBehaviour
 {
+    public static bool attacking = true;
+
     public float SequenceValue
     {
         get { return _sequenceValue; }
@@ -28,7 +30,6 @@ public class ToolAnimation : MonoBehaviour
     [SerializeField] float _sequenceValue;
     [SerializeField] float lerpRatio;
 
-    public static bool attacking = true;
     float timer;
 
     void Update()
