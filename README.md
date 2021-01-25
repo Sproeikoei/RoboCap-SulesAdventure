@@ -2,7 +2,20 @@
 ### Coding Blocks Game Jam 2021
 4 day jam, started on the 2nd day.    
 https://itch.io/jam/coding-blocks-2021/rate/892846
-  <br/><br/>
+  <br/>
+  
+  ### Tools
+  *Unity<br/>
+  Unity URP (Universal Render Pipeline)<br/>
+  Unity Animation Rigging<br/>
+  Unity Cinemachine<br/>
+  Cubase 10<br/>
+  Omnisphere<br/>
+  Viper Synth<br/>
+  StevenSlate Drums<br/>
+  Axe-FX*<br/>
+  
+  
 My goal for this jam was to actually finish something and see where my weak points lie when put under a short time-constraint. 
 
 One very clear point is clean code which sprouted from beginning on a bigger scope than was possible for me alone.  
