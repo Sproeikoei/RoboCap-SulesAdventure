@@ -10,11 +10,19 @@ https://itch.io/jam/coding-blocks-2021/rate/892846
   Unity Animation Rigging<br/>
   Unity Cinemachine<br/>
   Cubase 10<br/>
-  Omnisphere<br/>
+  Omnisphere 2<br/>
   Viper Synth<br/>
   StevenSlate Drums<br/>
-  Axe-FX*<br/>
+  Axe-FX 2*<br/>
   
+  ### Credits
+  *Visual and audio assets<br/>
+  Texture maps used for the floor https://www.texturecan.com/details/136/ <br/>
+  Code<br/>
+  Music*<br/> 
+
+  
+  ### Summary
   
 My goal for this jam was to actually finish something and see where my weak points lie when put under a short time-constraint. 
 
